@@ -2,11 +2,9 @@
   <img src="./knight.jpg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=Hi%20there!%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Siwar Mhadhbi</h1>
+
+<h1 align="center">Hello👋, I'm Siwar Mhadhbi</h1>
 
 <h3 align="center">
 🎓 Cybersecurity Engineering Student &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🛡 Future Security Engineer
