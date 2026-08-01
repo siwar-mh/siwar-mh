@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/universe.jpg" width="100%"/>
+  <img src="./universe.jpg" width="100%"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiwarMhadhbi&color=7F00FF&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=siwar-mh&color=7F00FF&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
@@ -152,23 +152,21 @@ AI application for recognizing sign language using computer vision.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SiwarMhadhbi&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiwarMhadhbi&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siwar-mh&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwar-mh&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiwarMhadhbi&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siwar-mh&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiwarMhadhbi&theme=redical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siwar-mh&theme=redical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiwarMhadhbi&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=siwar-mh&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
-
-> ⚠️ *Remplace `SiwarMhadhbi` par ton vrai nom d'utilisateur GitHub dans toutes les URLs ci-dessus pour que les stats s'affichent correctement.*
 
 ---
 
