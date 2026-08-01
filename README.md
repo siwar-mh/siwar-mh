@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/universe_horizontal.jpg" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=Hi%20there!%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
