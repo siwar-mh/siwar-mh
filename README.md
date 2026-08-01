@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/universe_horizontal.jpg" width="100%"/>
+  <img src="./assets/universe.jpg" width="100%"/>
 </p>
 
 <p align="center">
