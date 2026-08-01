@@ -52,8 +52,6 @@ currently_learning:
   - Advanced Networking
   - Machine Learning for Cybersecurity
 
-goal: "Become a Cybersecurity Research Engineer 🚀"
-
 fun_fact: "I debug faster with coffee ☕ and a hamster's focus 🐹"
 ```
 
